@@ -6,7 +6,7 @@ import os
 def __find_file_contain_name(name):
     list_of_files = []
     for file in os.listdir(os.getcwd()):
-        if file.lower().find(name) != -1 and file.lower().endswith(".docx"):
+        if (file.lower().find(name) != -1 or name == "") and file.lower().endswith(".docx"):
             list_of_files.append(file)
 
     return list_of_files

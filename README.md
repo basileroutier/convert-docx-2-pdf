@@ -1,0 +1,66 @@
+# Convert Word file (.docx) To Pdf
+![Logo](https://via.placeholder.com/1200x120)
+
+
+[![Build Status](https://travis-ci.org/walternascimentobarroso/walternascimentobarroso.github.io.svg?branch=master)](https://travis-ci.org/walternascimentobarroso/walternascimentobarroso.github.io)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
+
+## :notebook_with_decorative_cover: Menu
+
+* [Overview](#page_facing_up-overview) :page_facing_up:
+* [Install](#trident-install) :trident:
+    * [Installation](#installation)
+    * [Usage](#usage)
+* [Example](#mag_right-example-utilisation) :mag_right:
+* [Idea](#bulb-idea) :bulb:
+* [License](#mortar_board-license) :mortar_board:
+
+## :page_facing_up: Overview
+The (very) small project is used to convert word documents (docx) into pdf files. Instead of wasting time converting one or a set of files. Thanks to this, you only have to enter the desired name (**not case sensitive**) and it's done.
+
+
+## :trident: Install
+
+___
+### Installation
+___
+Title requires somehting to be launch
+
+#### Easy way to download :sunglasses:
+
+* Without ssh key
+   * Using the command :
+```
+$ git clone https://github.com/basileroutier/convert-docx-2-pdf.git
+```
+
+* With a ssh key:
+   * Using the command :
+```
+$ git clone git@github.com:basileroutier/convert-docx-2-pdf.git
+```
+
+Everything should be download now  <img src="https://c.tenor.com/Uowt3oHKCP4AAAAC/marc77-cat-at-work.gif" width="90" height="90" />
+<br/>
+<br/>
+___
+### Usage
+___
+##### Running the app
+Move the file in your preferable path.
+
+
+## :mag_right: Example utilisation
+
+## :bulb: Idea
+Let's create together. If you have some idea, trouble, or anything else ? Just open an [issue](https://github.com/basileroutier/title/issues/new/choose)
+
+
+<img src="https://c.tenor.com/k-tV1c5bCCkAAAAd/cat-smile-happy-cat.gif" width="90" height="90" />
+
+## :mortar_board: License
+
+Convert Word file (.docx) To Pdf is released under the MIT License.
