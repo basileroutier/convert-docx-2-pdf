@@ -15,7 +15,7 @@ def __find_file_contain_name(name):
 def convert_all_word_to_pdf_contain_name(name):
     list_of_files = __find_file_contain_name(name)
     if len(list_of_files) == 0:
-        print(f"No file found with name: {name}")
+        print(f"No file found with name: {name == '' and 'All files' or name} with .docx extension")
         return
 
     print("Converting files...")
